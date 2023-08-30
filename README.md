@@ -8,5 +8,5 @@ Location : Remote
 
 ## Offer Letter
 
-![App Screenshot](1.jpeg)
+![App Screenshot](Offer_letter.jpeg)
 
